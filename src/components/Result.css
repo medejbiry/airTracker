@@ -1,0 +1,22 @@
+.Result{
+    border-top: solid black 1px;
+    padding-top: 20px;
+    
+}
+.Rtitle{
+    border-radius: 28px;
+    margin: 0 auto;
+    width: 950px;
+    height: 88px;
+    background-color: #FFF5E1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rtitle > p{
+    font-size: 36px;
+    font-weight: bold;
+}
+.Flights{
+    margin-top: 20px;
+}
